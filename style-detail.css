@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  color: aquamarine;
+}
+.test {
+  display: flex;
+  color: aqua;
+  font-weight: 200;
+}
